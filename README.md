@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hyeonyu
-- 👀 I’m interested in 'Deep Learning', 'Radiology', and their combination.
+- 👋 Hi, I’m @hyeonyu at the University of North Carolina at Chapel Hill.
+- 👀 I’m interested in 'Deep Learning', 'Radiology', 'Interventional Radiology', and their combination.
 - 🌱 I’m currently an Interventional Radiologist, learning DL, hoping to apply my knowledge to the research. 
 - 💞️ I’m looking to collaborate on 'DL model developing in Radiology field'
 - 📫 How to reach me 'hyeon_yu@med.unc.edu'
